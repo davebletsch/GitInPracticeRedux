@@ -1,1 +1,3 @@
 Git in Practice
+
+A data scientist walks into a bar.
